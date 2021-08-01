@@ -11,7 +11,7 @@
   <a href="https://twitter.com/MiryangJung" target="_blank">
     <img src="https://img.shields.io/badge/MiryangJung-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/miryang/Jung-Miryang-45d8573632d74e8587f853b4982bfd9a#bfb7ae0b7dc6499b97088091f1393ef8" target="_blank">
+  <a href="https://stackoverflow.com/users/11981439/miryangjung" target="_blank">
     <img src="https://img.shields.io/badge/MiryangJung-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white"/>
   </a>
 </p>
