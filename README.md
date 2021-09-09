@@ -2,7 +2,7 @@
     <a href="https://www.notion.so/miryang/Jung-Miryang-45d8573632d74e8587f853b4982bfd9a" target="_blank">
       <img src="https://img.shields.io/badge/Resume-EA4AAA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
-  <a href="https://miryang.dev" target="_blank">
+  <a href="https://miryangdev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Blog-005571?style=flat-square&logo=Bloglovin&logoColor=white"/>
   </a>
   <a href="mailto:miryang.dev@gmail.com" target="_blank">
