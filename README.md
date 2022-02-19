@@ -27,3 +27,9 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiryangJung&show_icons=true&theme=dark)
  
 </div>
+
+<div align="center" style="text-align:center">
+    
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
+    
+</div>
