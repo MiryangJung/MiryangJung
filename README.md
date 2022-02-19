@@ -16,7 +16,9 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=miryangjung&style=flat-square)
+<div align="center" style="text-align:center">
+    ![](https://komarev.com/ghpvc/?username=miryangjung&style=flat-square&color=grey)
+</div>
 
 <div align="center" style="text-align:center">
   
