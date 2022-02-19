@@ -17,7 +17,7 @@
 </p>
 
 <div align="center" style="text-align:center">
-    ![](https://komarev.com/ghpvc/?username=miryangjung&style=flat-square&color=grey)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
 </div>
 
 <div align="center" style="text-align:center">
