@@ -9,7 +9,7 @@ Building upon this passion, I aspire to become a frontend developer who provides
 
 **"I am always passionate about everything I do."**
 
-I love traveling. The countries I've visited so far are:  
+I love traveling. The countries I've visited:  
 Denmark, Turkey, Finland, Sweden, Norway, Italy, United Kingdom, Czechia, Hungary, Austria, Switzerland, France, Japan, Philippines, Taiwan, Vietnam, Thailand
 
 **See my resume for more details:** [English Resume](https://read.cv/miryang) / [한글 이력서](https://miryang.dev/resume)
